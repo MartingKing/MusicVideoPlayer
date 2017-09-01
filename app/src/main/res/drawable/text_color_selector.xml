@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--不在单击状态下字体的颜色-->
+    <item android:color="@color/black" android:state_pressed="false" />
+    <!--单击时的颜色-->
+    <item android:color="@color/red" android:state_pressed="true" />
+</selector>

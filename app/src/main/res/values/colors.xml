@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="green">#4caf50</color>
+    <color name="green1">#bbfecb</color>
+    <color name="green2">#2fdb74</color>
+    <color name="green3">#90e8b4</color>
+    <color name="green4">#40e187</color>
+    <color name="yellow">#e8d26a</color>
+    <color name="red">#e92323</color>
+    <color name="blue">#2327e9</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="bottom_bg">#9900ff00</color>
+    <color name="divider_line">#d2d2d2</color>
+
+    <color name="color_bule">#2F9BFF</color>
+    <color name="color_bule2">#40B3F0</color>
+    <color name="color_bule3">#99ddff</color>
+    <color name="transparent">#00000000</color>
+
+
+    <color name="tv_branding">#ffff5722</color>
+    <color name="tv_branding_dark">#ffbf360c</color>
+    <color name="tv_branding_accent">#00B8D4</color>
+    <color name="bt_accent">#00B8D4</color>
+    <color name="media_item_icon_playing">@color/bt_accent</color>
+    <color name="media_item_icon_not_playing">#ccc</color>
+    <color name="drawer_header_background">@color/bt_accent</color>
+    <color name="error_message_background">#ffff1600</color>
+    <color name="drawer_item_selected_background">#feee</color>
+    <color name="drawer_item_tint_color">#ff333333</color>
+    <color name="fullscreen_secondary_line_color">#E5CCCCCC</color>
+    <color name="fullscreen_line_color">#E5FFFFFF</color>
+    <color name="tv_search_button">#ff0097A7</color>
+    <color name="background_gradient_start">#000000</color>
+    <color name="background_gradient_end">#DDDDDD</color>
+    <color name="default_background">#0096a6</color>
+
+
+    <color name="white_8p">#14FFFFFF</color>
+    <color name="white_16p">#29FFFFFF</color>
+    <color name="white_24p">#3DFFFFFF</color>
+    <color name="white_50p">#80FFFFFF</color>
+    <color name="white_96p">#F5FFFFFF</color>
+    <color name="black_50p">#80000000</color>
+    <color name="red_30p">#4CF44336</color>
+    <color name="grey">#9E9E9E</color>
+    <color name="grey_50p">#809E9E9E</color>
+    <color name="grey_300">#E0E0E0</color>
+    <color name="grey_700_96p">#F5616161</color>
+    <color name="grey_300_96p">#F5E0E0E0</color>
+    <color name="grey_900">#212121</color>
+    <color name="grey_900_96p">#F5212121</color>
+</resources>
