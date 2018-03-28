@@ -8,7 +8,7 @@
         android:id="@+id/toolbar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@drawable/side_nav_bar"
+        android:background="?attr/colorPrimary"
         android:fitsSystemWindows="true"
         app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
 </android.support.design.widget.AppBarLayout>
