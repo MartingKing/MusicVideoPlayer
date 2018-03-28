@@ -55,5 +55,4 @@ dependencies {
     compile 'com.tencent.bugly:crashreport_upgrade:1.2.5'
     compile files('libs/AMap_Location_1.3.3.jar')
     compile 'com.github.bumptech.glide:glide:3.7.0'
-    compile project(':vitamio')
 }

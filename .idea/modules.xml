@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MusicVideoPlayer.iml" filepath="$PROJECT_DIR$/MusicVideoPlayer.iml" />
+      <module fileurl="file://C:\Users\Administrator\Desktop\MusicVideoPlayer\MusicVideoPlayer.iml" filepath="C:\Users\Administrator\Desktop\MusicVideoPlayer\MusicVideoPlayer.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/vitamio/vitamio.iml" filepath="$PROJECT_DIR$/vitamio/vitamio.iml" />
+      <module fileurl="file://C:\Users\Administrator\Desktop\MusicVideoPlayer\app\app.iml" filepath="C:\Users\Administrator\Desktop\MusicVideoPlayer\app\app.iml" />
+      <module fileurl="file://C:\Users\Administrator\Desktop\MusicVideoPlayer\vitamio\vitamio.iml" filepath="C:\Users\Administrator\Desktop\MusicVideoPlayer\vitamio\vitamio.iml" />
     </modules>
   </component>
 </project>

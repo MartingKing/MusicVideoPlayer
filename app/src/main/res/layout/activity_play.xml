@@ -4,8 +4,8 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <io.vov.vitamio.widget.VideoView
-        android:id="@+id/videoView"
+    <VideoView
+        android:id="@+id/video_view"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"/>
 </LinearLayout>
